@@ -1,0 +1,1 @@
+This source code is a zipped copy of my Eclipse workspace. Some of the paths for external references in the project, mostly around Cobertura, may need to be modified to point to the included jars. This is included mostly as evidence of the source code and unit tests that cover the test cases discussed in the experience report.
